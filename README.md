@@ -11,8 +11,8 @@ You can use it to generate different transfer function and spectra: BBKS, Eisens
 
 All parameters are in the file parameters.ini. To execute just use:
 
->>> python3 run_CosmoW.py
+> python3 run_CosmoW.py
 
 All parameters can be changed at the terminal using "--", the parameter name and the value. For example, to change the value of baryons for 0.01:
 
->>> python3 run_CosmoW.py --obh2 0.01
+> python3 run_CosmoW.py --obh2 0.01
