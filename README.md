@@ -1,8 +1,8 @@
 # CosmoW2.0
-
-% This code was created by Alessandro Marins (University of Sao Paulo)
-% Any question about your operation, please, 
-% contact me in alessandro.marins@usp.br
+ 
+ This code was created by Alessandro Marins (University of Sao Paulo)
+ Any question about your operation, please, 
+ contact me in alessandro.marins@usp.br
 
 
 This code is a public code and is a continuation of CosmoW, code that generates TF (transfer function), PK (power spectrum) and CL(angular power spectrum) of different types.
